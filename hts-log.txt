@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Sep 2019 13:48:41 at http://atechnologies.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://atechnologies.co.in/ -O1 "D:\Student Trainning" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:48:42	Warning: 	Found for atechnologies.co.in/robots.txt
+13:48:42	Warning: 	File has moved from atechnologies.co.in/robots.txt to http://atechnologies.co.in/index
+13:50:49	Warning: 	Retry after error -4 (No data (connection closed)) at link atechnologies.co.in/img/1920x1080/15.jpg (from atechnologies.co.in/)
+13:50:50	Warning: 	Retry after error -4 (No data (connection closed)) at link atechnologies.co.in/training-centers (from atechnologies.co.in/)
+13:50:50	Warning: 	Retry after error -4 (No data (connection closed)) at link atechnologies.co.in/img/1920x1080/07.jpg (from atechnologies.co.in/)
+13:50:55	Warning: 	Retry after error -4 (No data (connection closed)) at link atechnologies.co.in/faq (from atechnologies.co.in/index)
+13:50:55	Warning: 	Retry after error -4 (No data (connection closed)) at link atechnologies.co.in/img/training/cyber-security/3.jpg (from atechnologies.co.in/cyber-security-course)
+13:50:59	Warning: 	Found for atechnologies.co.in/faq
+13:50:59	Warning: 	File has moved from atechnologies.co.in/faq to http://atechnologies.co.in/index
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 37 seconds : 96 links scanned, 89 files written (5207412 bytes overall) [3717349 bytes received at 23677 bytes/sec], 2166905 bytes transferred using HTTP compression in 49 files, ratio 29%, 4.6 requests per connection
+(No errors, 9 warnings, 0 messages)
